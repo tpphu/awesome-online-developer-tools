@@ -7,4 +7,5 @@
 ## Generation Tools
 
 ### Secure Online Password Generation
-- [TheDevBand](https://thedevband.com/datetime-timestamp-epoch-converter.html) - Secure online password generator with many options and can work offline.
+- [Secure Online Password Generator](https://thedevband.com/generate-password.html) - Secure online password generator with many options and can work offline.
+- [Passwords Generator](https://passwordsgenerator.net/) - Strong Random Password Generator
