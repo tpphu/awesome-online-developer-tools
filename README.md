@@ -5,8 +5,9 @@
 	- [Secure Online Password Generation](#secure-online-password-generation)
 - [Converter Tools](#converter-tools)
 	- [Online Datetime/Timestamp Convertor](#secure-online-password-generation)
-- [Encode/Decode Tools](#converter-tools)
-	- [Base64 Encoder/Decoder](#secure-online-password-generation)
+- [Encode/Decode Tools](#encodedecode-tools)
+	- [Base64 Encoder](#base64-encoder)
+	- [Base64 Decoder](#base64-decoder)
   
 ## Generation Tools
 
